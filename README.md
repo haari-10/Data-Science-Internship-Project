@@ -48,5 +48,5 @@ This project was completed as part of a Data Science Internship and includes:
 ---
 
 ### Dataset
-- COVID-19 Dataset: (Add your link here)
-- Loan Dataset: (Add your link here)
+- COVID-19 Dataset
+- Loan Dataset
